@@ -1,7 +1,7 @@
 import React from 'react';
 import { Download,Eye } from 'lucide-react';
 import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa';
-// import Profile from './images.png';
+import Profile from '/assets/Profile';
 import { motion } from 'framer-motion';
 import "../Css/Hero.css";
 
@@ -122,7 +122,7 @@ const Hero = () => {
               duration: 2, // Smooth and slightly slower animation
               ease: [0.25, 0.1, 0.25, 1], // Custom cubic bezier easing
             }}
-            src={"https://images.pexels.com/photos/15798188/pexels-photo-15798188/free-photo-of-a-puppy-in-dog-clothes-in-sunlight.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"}
+            src={"Profile"}
             alt="Suyash Vishnoi"
             className="rounded-full border border-blue-600 md:w-[500px] w-[300px] shadow-[0px_0px_20px_10px_rgba(0,0,0,0.3)] shadow-blue-500"
           />
