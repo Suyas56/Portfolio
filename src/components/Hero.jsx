@@ -1,7 +1,7 @@
 import React from 'react';
 import { Download,Eye } from 'lucide-react';
 import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa';
-import Profile from '../assets/images.png';
+import Profile from './images.png';
 import { motion } from 'framer-motion';
 import "../Css/Hero.css";
 
