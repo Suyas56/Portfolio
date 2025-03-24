@@ -1,5 +1,5 @@
 import React from 'react';
-import AboutImg from '../assets/About.png';
+import AboutImg from '/assets/About.png';
 import { FaChevronRight } from 'react-icons/fa';
 
 const About = () => {

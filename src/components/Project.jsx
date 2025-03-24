@@ -1,7 +1,7 @@
 import React from 'react'
-import Digital from '../assets/Digital.png'
-import Nike from '../assets/Nike.png'
-import Clothify from '../assets/Clothify.png'
+import Digital from '/assets/Digital.png'
+import Nike from '/assets/Nike.png'
+import Clothify from '/assets/Clothify.png'
 import { FaGithub } from 'react-icons/fa'
 
 const Project = () => {
