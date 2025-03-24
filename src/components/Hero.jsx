@@ -122,7 +122,7 @@ const Hero = () => {
               duration: 2, // Smooth and slightly slower animation
               ease: [0.25, 0.1, 0.25, 1], // Custom cubic bezier easing
             }}
-            src={Profile}
+            // src={Profile}
             alt="Suyash Vishnoi"
             className="rounded-full border border-blue-600 md:w-[500px] w-[300px] shadow-[0px_0px_20px_10px_rgba(0,0,0,0.3)] shadow-blue-500"
           />
