@@ -31,15 +31,7 @@ const Contact = () => {
                 </a>
               </p>
             </div>
-            {/* <div>
-              <h3 className='text-2xl font-semibold text-gray-300'>Follow Me</h3>
-              <div className='flex gap-3 text-2xl transition-all mt-5'>
-                <a href='#' className='text-blue-400 hover:text-blue-500'><FaFacebook /></a>
-                <a href='#' className='text-blue-400 hover:text-blue-500'><FaInstagram /></a>
-                <a href='#' className='text-blue-400 hover:text-blue-500'><FaLinkedin /></a>
-                <a href='#' className='text-blue-400 hover:text-blue-500'><FaSquareXTwitter /></a>
-              </div>
-            </div> */}
+          
             <div>
   <h3 className='text-2xl font-semibold text-gray-300'>Follow Me</h3>
   <div className='flex gap-3 text-2xl transition-all mt-5'>

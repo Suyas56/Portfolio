@@ -9,13 +9,13 @@ const education = [
   },
   {
     degree: "12th/ Intermediate",
-    institution: "Modern School",
+    institution: "UP Kirana Seva Samiti Vidyalaya",
     year: "2022",
     description: "Completed senior secondary education with a focus on Science."
   },
   {
     degree: "10th/ Matriculation",
-    institution: "St. Karen's High School",
+    institution: "UP Kirana Seva Samiti Vidyalaya",
     year: "2020",
     description: "Completed secondary education with distinction."
   }
