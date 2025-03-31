@@ -1,7 +1,13 @@
 import React from 'react'
+<<<<<<< HEAD
 import Digital from '../assets/Digital.png'
 import Nike from '../assets/Nike.png'
 import Clothify from '../assets/Clothify.png'
+=======
+import Digital from '/assets/Digital.png'
+import Nike from '/assets/Nike.png'
+import Clothify from '/assets/Clothify.png'
+>>>>>>> 16f70041df7ce2151cf2dc42cd40c1876cfe266b
 import { FaGithub } from 'react-icons/fa'
 
 const Project = () => {

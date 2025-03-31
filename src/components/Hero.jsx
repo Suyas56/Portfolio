@@ -1,7 +1,11 @@
 import React from 'react';
 import { Download,Eye } from 'lucide-react';
 import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa';
+<<<<<<< HEAD
 import Profile from '../assets/profile.png';
+=======
+import Profile from '/assets/Profile.png';
+>>>>>>> 16f70041df7ce2151cf2dc42cd40c1876cfe266b
 import { motion } from 'framer-motion';
 import "../Css/Hero.css";
 

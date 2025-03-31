@@ -1,5 +1,9 @@
 import React, { useState } from "react";
+<<<<<<< HEAD
 import Logo from "../assets/Logo.png";
+=======
+import Logo from "/assets/Logo.png";
+>>>>>>> 16f70041df7ce2151cf2dc42cd40c1876cfe266b
 import { FaChevronRight } from "react-icons/fa";
 import { HiMenuAlt3, HiMenuAlt1 } from "react-icons/hi";
 import ResponsiveMenu from "./ResponsiveMenu";
